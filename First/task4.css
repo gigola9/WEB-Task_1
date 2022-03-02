@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto
+}
+
+.fourth-task {
+    width: 500px;
+    height: 400px;
+    background-color: #c0c0c0;
+    padding: 100px 90px;
+    color: blue;
+}
+
+.name {
+    color: black;
+    font-size: 30px;
+}
+
+.lastname {
+    color: green;
+    font-size: 24px;
+}
+
+.hobby {
+    font-family: 'calibri';
+    font-size: 18px;
+}

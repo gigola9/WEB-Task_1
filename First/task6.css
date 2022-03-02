@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto
+}
+
+.sixth-task {
+    background: url('https://colouringyourlife.com/wp-content/uploads/2020/07/Blue-Nimbus-CLouds.jpg');
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    padding: 40px
+}
+
+.region-list {
+    margin-top: 20px;
+    font-weight: bold;
+    list-style-type:circle;
+}
